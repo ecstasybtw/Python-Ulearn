@@ -1,0 +1,5 @@
+.venv
+currency_rates.csv
+creating_test_db.py
+test.py
+regex.py
